@@ -1,2 +1,1 @@
-*Emphasize* _emphasize_
-**README!!!**
+**This file is mandatory in projects**
